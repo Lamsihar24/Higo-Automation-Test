@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../Projects/mper-webdriverio-demo"
+		},
+		{
+			"path": "../../../../Automation-Herego"
+		},
+		{
+			"path": "../../../../../Projects/kompas-web-automation-testLam"
+		},
+		{
+			"path": "../../.."
+		},
+		{
+			"path": "../../../../Blog-Higo-Automation-Test"
+		}
+	],
+	"settings": {}
+}
